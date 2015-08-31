@@ -1,3 +1,2 @@
 This is a game client which connects to a server via tcp connections, takes decisions and moves the tank based on the updates sent to it from the server.
 
-Website URL - http://h2gamesuom.herobo.com/
