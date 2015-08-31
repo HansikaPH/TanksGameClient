@@ -1,0 +1,28 @@
+C:\Users\User 123\Documents\Visual Studio 2010\Projects\Tanks\Tanks\Tanks\bin\x86\Debug\Tanks.exe
+C:\Users\User 123\Documents\Visual Studio 2010\Projects\Tanks\Tanks\Tanks\bin\x86\Debug\Tanks.pdb
+C:\Users\User 123\Documents\Visual Studio 2010\Projects\Tanks\Tanks\Tanks\obj\x86\Debug\Tanks.csprojResolveAssemblyReference.cache
+C:\Users\User 123\Documents\Visual Studio 2010\Projects\Tanks\Tanks\Tanks\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\User 123\Documents\Visual Studio 2010\Projects\Tanks\Tanks\Tanks\obj\x86\Debug\Tanks.exe
+C:\Users\User 123\Documents\Visual Studio 2010\Projects\Tanks\Tanks\Tanks\obj\x86\Debug\Tanks.pdb
+C:\Users\Hansi\Desktop\Tanks\Tanks\Tanks\bin\x86\Debug\Tanks.exe
+C:\Users\Hansi\Desktop\Tanks\Tanks\Tanks\bin\x86\Debug\Tanks.pdb
+C:\Users\Hansi\Desktop\Tanks\Tanks\Tanks\obj\x86\Debug\Tanks.csprojResolveAssemblyReference.cache
+C:\Users\Hansi\Desktop\Tanks\Tanks\Tanks\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hansi\Desktop\Tanks\Tanks\Tanks\obj\x86\Debug\Tanks.exe
+C:\Users\Hansi\Desktop\Tanks\Tanks\Tanks\obj\x86\Debug\Tanks.pdb
+C:\Users\Hansi\Desktop\Tanks\Tanks\Tanks\bin\x86\Debug\Content\tanks-background.xnb
+C:\Users\Hansi\Desktop\Tanks\Tanks\Tanks\bin\x86\Debug\Content\P0.xnb
+C:\Users\Hansi\Desktop\Tanks\Tanks\Tanks\bin\x86\Debug\Content\water.xnb
+C:\Users\Hansi\Desktop\Tanks\Tanks\Tanks\bin\x86\Debug\Content\empty_cell.xnb
+C:\Users\Hansi\Desktop\Tanks\Tanks\Tanks\bin\x86\Debug\Content\stone.xnb
+C:\Users\Hansi\Desktop\Tanks\Tanks\Tanks\bin\x86\Debug\Content\P1.xnb
+C:\Users\Hansi\Desktop\Tanks\Tanks\Tanks\bin\x86\Debug\Content\P2.xnb
+C:\Users\Hansi\Desktop\Tanks\Tanks\Tanks\bin\x86\Debug\Content\P3.xnb
+C:\Users\Hansi\Desktop\Tanks\Tanks\Tanks\bin\x86\Debug\Content\P4.xnb
+C:\Users\Hansi\Desktop\Tanks\Tanks\Tanks\bin\x86\Debug\Content\brick_100.xnb
+C:\Users\Hansi\Desktop\Tanks\Tanks\Tanks\bin\x86\Debug\Content\brick_75.xnb
+C:\Users\Hansi\Desktop\Tanks\Tanks\Tanks\bin\x86\Debug\Content\brick_50.xnb
+C:\Users\Hansi\Desktop\Tanks\Tanks\Tanks\bin\x86\Debug\Content\brick_25.xnb
+C:\Users\Hansi\Desktop\Tanks\Tanks\Tanks\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Hansi\Desktop\Tanks\Tanks\Tanks\bin\x86\Debug\Content\foreground1.xnb
+C:\Users\Hansi\Desktop\Tanks\Tanks\Tanks\bin\x86\Debug\Content\foreground2.xnb

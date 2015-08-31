@@ -1,0 +1,2 @@
+C:\Users\User 123\Documents\Visual Studio 2010\Projects\Tanks\Tanks\TanksContent\obj\x86\Debug\TanksContent.contentprojResolveAssemblyReference.cache
+C:\Users\Hansi\Desktop\Tanks\Tanks\TanksContent\obj\x86\Debug\TanksContent.contentprojResolveAssemblyReference.cache
